@@ -21,3 +21,5 @@ insert into profile values(seq_profile.nextval,'ÕÅÁù','1982-07-07','ÄĞ','³ÌĞòÔ±'
 commit;
 
 select * from profile;
+
+select * from profile;
